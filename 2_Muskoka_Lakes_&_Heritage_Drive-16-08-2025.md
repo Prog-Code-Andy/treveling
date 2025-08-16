@@ -1,19 +1,5 @@
 ### Muskoka road trip plan
-* https://chatgpt.com/share/689bce59-d728-800a-9a0b-5cbfebd64415
 
----
-### Prompt:
-
-Muskoka Scenic & Nature Adventure
-Plan a one-day scenic road trip from Barrie, Ontario to Huntsville, Muskoka (approx. 170 km round trip). The plan should include:
-Daily route with estimated driving time per segment.
-Key stops such as Muskoka Heritage Place, Dorset Lookout Tower, and local lakeside beaches.
-Historical or cultural significance of each attraction.
-Nature attractions, hiking trails, and scenic lake viewpoints.
-Wildlife viewing spots and photo opportunities.
-Recommendations for lunch at a themed restaurant and coffee/bakery stops.
-Rest areas and scenic pull-offs for short breaks.
-Ensure the schedule fits within one day and returns to Barrie by evening.
 
 ---
 
