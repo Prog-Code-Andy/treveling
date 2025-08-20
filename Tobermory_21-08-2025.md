@@ -1,21 +1,12 @@
 ### Tobermory road trip plan
 
-* https://chatgpt.com/share/689bd4ad-c634-800a-8025-de13063f53e3
+### **Weather Forecast for Tobermory, Ontario**
 
-### Prompt:
-Create a **full-day road trip plan** starting and ending in **Barrie, Ontario**, with a loop through **Tobermory** (within 600 km total).
-Include:
+Stay updated with the latest weather conditions for Tobermory on your travel day:
 
-* Estimated **driving times per segment**.
-* **Key attractions**: Tobermory, Falls, Tower, Heritage Place.
-* **Historical/cultural significance** of each attraction.
-* **Historical/cultural significance** of each attraction.
-* **Scenic routes** with lake and forest views.
-* Short **nature trails** or boardwalks along the way.
-* **Wildlife viewing/photo spots**.
-* **Lunch/dinner recommendations** at themed restaurants (e.g., lakeside grills, log-cabin style).
-* Coffee and bakery stops for breaks.
-  Fit into a **single-day itinerary**, returning to Barrie by evening.
+* **Live Weather**: [Tobermory Weather Forecast](https://www.theweathernetwork.com/ca/weather/ontario/tobermory)
+
+*Note: Click the link above for real-time updates.*
 
 ---
 
@@ -141,12 +132,12 @@ I've enhanced your full-day road‑trip plan around Tobermory with precise detai
 * **Memorable Stops**: Diverse nature areas, historic landmarks, thematic meals, and local culture.
 * **Parks Connection**: Seamless inclusion of both Fathom Five and Bruce Peninsula National Parks.
 
-Let me know if you'd like dialing in on specific trail lengths, seasonal considerations, or dining suggestions—happy to add!
+---
 
-[1]: https://friendsofthebruce.ca/flowerpot-island/?utm_source=chatgpt.com "Flowerpot Island – Friends of The Bruce"
-[2]: https://www.nationalparkstraveler.org/2023/10/flowerpots-and-other-wonders-fathom-five-national-marine-park?utm_source=chatgpt.com "Flowerpots And Other Wonders Of Fathom Five ..."
-[3]: https://en.wikipedia.org/wiki/Flowerpot_Island?utm_source=chatgpt.com "Flowerpot Island"
-[4]: https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/flowerpot?utm_source=chatgpt.com "Flowerpot Island - Fathom Five National Marine Park"
-[5]: https://en.wikipedia.org/wiki/Fathom_Five_National_Marine_Park?utm_source=chatgpt.com "Fathom Five National Marine Park"
-[6]: https://en.wikipedia.org/wiki/Tobermory%2C_Ontario?utm_source=chatgpt.com "Tobermory, Ontario"
-[7]: https://en.wikipedia.org/wiki/Big_Tub_Lighthouse?utm_source=chatgpt.com "Big Tub Lighthouse"
+* [Flowerpot Island – Friends of The Bruce](https://friendsofthebruce.ca/flowerpot-island/) – Official site with detailed visitor information, including hiking trails, boat schedules, and conservation efforts.
+* [National Parks Traveler – Flowerpot Island](https://www.nationalparkstraveler.org/2023/10/flowerpots-and-other-wonders-fathom-five-national-marine-park) – Overview of the island’s geological and ecological significance.
+* [Wikipedia – Flowerpot Island](https://en.wikipedia.org/wiki/Flowerpot_Island) – General information about the island’s history and features.
+* [Parks Canada – Flowerpot Island](https://parks.canada.ca/amnc-nmca/on/fathomfive/activ/flowerpot) – Official Parks Canada page with activities, maps, and regulations.
+* [Wikipedia – Fathom Five National Marine Park](https://en.wikipedia.org/wiki/Fathom_Five_National_Marine_Park) – Background on the marine park’s history and attractions.
+* [Wikipedia – Tobermory, Ontario](https://en.wikipedia.org/wiki/Tobermory%2C_Ontario) – Information about the town and its connection to the surrounding parks.
+* [Wikipedia – Big Tub Lighthouse](https://en.wikipedia.org/wiki/Big_Tub_Lighthouse) – Details about the historic lighthouse and its significance.
